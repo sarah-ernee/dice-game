@@ -58,7 +58,7 @@ const GamePlay = () => {
             Reset Score
           </button>
           <button
-            className="button"
+            className="rules-button"
             onClick={() => setShowRules((prev) => !prev)}
           >
             {showRules ? "Hide" : "Show"} Rules

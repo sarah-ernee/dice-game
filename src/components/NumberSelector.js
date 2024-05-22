@@ -29,7 +29,7 @@ const NumberSelector = ({
             </div>
           ))}
         </div>
-        <p>Select Number</p>
+        <p className="select-number">Select Number</p>
       </div>
     </>
   );
