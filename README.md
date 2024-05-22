@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Live App
 
-Check out the deployed version here [six-faces.vercel.app](six-faces.vercel.app)
+Check out the deployed version [http://six-faces.vercel.app](http://six-faces.vercel.app)
