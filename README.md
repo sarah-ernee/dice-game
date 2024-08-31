@@ -1,13 +1,13 @@
-## Dice Game
+# Dice Game
 Project deployed on Vercel. 
 
-# Cloning & Navigation
+## Cloning & Navigation
 1. Run `npm install` to install necessary dependencies.
 2. Serve localhost with `npm run dev`.
    
 - Codebase resides main in the src folder where `src/components` stores the React components. 
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
